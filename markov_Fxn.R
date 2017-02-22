@@ -1,6 +1,5 @@
 # markov_Fxn.R & corpusToVector
-# author: m. ezekiel
-#
+# Author: Mario Ezekiel H. (@m_ezkiel)
 # February 23, 2016
 
 
@@ -14,7 +13,7 @@ corpusToVector <- function(file)
   return(wordVec)
 }
 
-# Import text corpus
+# Import text corpus-- basically any free text file (see www.archive.org for resources)
 corpusToVector("~/Documents/Data/Text Files/time_machine_Wells.txt") -> wordVector
 wordVector
 
