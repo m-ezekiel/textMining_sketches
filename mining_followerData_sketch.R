@@ -1,4 +1,5 @@
 # R-script for extracting non-commercial accounts from follower data by searching for the use of 1st person pronouns in the user's account description.
+# Author: Mario Ezekiel H. (@m_ezkiel)
 
 library(twitteR); library(dplyr)
 
