@@ -1,5 +1,5 @@
 # Ivy tweets linguistic analysis sketch
-# 
+# Author: Mario Ezekiel H. (@m_ezkiel)
 
 library(dplyr)
 
